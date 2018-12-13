@@ -5,7 +5,7 @@ node_js:
 jobs:
   include:
     - stage: "Tests"
-      if: branch = task2
+      if: branch = master OR branch = release
       script: npm start
 
     # Docker deployment only happen for "master" and "release" branches.
