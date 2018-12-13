@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+  - 10
+
+jobs:
+  include:
+    - stage: "Tests"
+      script: echo test
+
+    # Docker deployment only happen for "master" and "release" branches.
+    - stage: "Docker-Deployment"
+      script: echo deployment
