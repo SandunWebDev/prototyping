@@ -1,5 +1,3 @@
 # prototyping
 
-<iframe src='https://www.w3.org/TR/SVG/images/script/script01.svg' border='0'/>
-
-![enter image description here](https://7dad-2402-4000-2281-5425-18bc-d18f-386f-17c6.ngrok.io/my-passport)
+<img src='https://wizardpassport-sandunwebdev.vercel.app/api/passport-as-svg/?encodedPassportData=eyJob3VzZSI6IkdyeWZmaW5kb3IiLCJ3YW5kIjoiRHJhZ29uIEhlYXJ0c3RyaW5nIiwicGF0cm9udXMiOiJCbGFjayBTd2FuIiwiYmxvb2RTdGF0dXMiOiJQdXJlIEJsb29kIn0=' alt='Wizard Passport' width='500px' />
