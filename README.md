@@ -11,14 +11,17 @@
 
 <p align="left">
     I am an experienced full-stack engineer who specializes in React and NodeJS development, Along with competency in a wide range of web development aspects including API Development, DevOps, Cloud Service Providers and Designing.
+</p>
 
+<p align="left">
     I am genuinely passionate about web development and like to make ideas into web apps with elegant interfaces and reliable backends. Also an open-source enthusiast too. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 </p>
  
 <p align="left"> 
-    <img alt="GIF" 
-    src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="49%"  />
-    <img src='https://stars.medv.io/facebook/react.svg'/>&nbsp;&nbsp;
+    <img alt="GIF" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="49%"  />
+ 
+    <img src='https://stars.medv.io/facebook/react.svg'/>
+ 
     <img src="https://komarev.com/ghpvc/?username=sandunwebdev&style=for-the-badge"/>
 </p>
 
